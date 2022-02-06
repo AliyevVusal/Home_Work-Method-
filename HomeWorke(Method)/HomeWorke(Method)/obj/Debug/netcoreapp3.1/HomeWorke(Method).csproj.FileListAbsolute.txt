@@ -1,0 +1,14 @@
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\bin\Debug\netcoreapp3.1\HomeWorke(Method).exe
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\bin\Debug\netcoreapp3.1\HomeWorke(Method).deps.json
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\bin\Debug\netcoreapp3.1\HomeWorke(Method).runtimeconfig.json
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\bin\Debug\netcoreapp3.1\HomeWorke(Method).runtimeconfig.dev.json
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\bin\Debug\netcoreapp3.1\HomeWorke(Method).dll
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\bin\Debug\netcoreapp3.1\HomeWorke(Method).pdb
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\obj\Debug\netcoreapp3.1\HomeWorke(Method).csproj.AssemblyReference.cache
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\obj\Debug\netcoreapp3.1\HomeWorke(Method).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\obj\Debug\netcoreapp3.1\HomeWorke(Method).AssemblyInfoInputs.cache
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\obj\Debug\netcoreapp3.1\HomeWorke(Method).AssemblyInfo.cs
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\obj\Debug\netcoreapp3.1\HomeWorke(Method).csproj.CoreCompileInputs.cache
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\obj\Debug\netcoreapp3.1\HomeWorke(Method).dll
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\obj\Debug\netcoreapp3.1\HomeWorke(Method).pdb
+C:\Users\vusal\source\repos\HomeWorke(Method)\HomeWorke(Method)\obj\Debug\netcoreapp3.1\HomeWorke(Method).genruntimeconfig.cache
